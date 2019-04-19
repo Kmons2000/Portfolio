@@ -15,7 +15,7 @@ Number and name of feature: Feature #2: Modify the contents
 
 Estimate of time needed to complete: 2 hrs 30 mins
 
-Start time: 10:45
+Start time: 10:50 am
 
 Finish time: 
 

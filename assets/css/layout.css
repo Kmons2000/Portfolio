@@ -1766,9 +1766,10 @@ ol {
         }
 
         #main > section.one {
-            background-color: #81918E;
-            background-image: url("../../images/banner.jpg");
+            /* background-color: #81918E; */
+            /* background-image: url("../../images/banner.jpg"); */
         }
+
 
         #main > section.two {
             background-color: #f5fafa;

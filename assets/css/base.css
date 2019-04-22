@@ -134,3 +134,15 @@
 	br.clear {
 		clear: both;
 	}
+
+#myVideo {
+	position: absolute;
+	bottom: 1;
+	right: 0;
+	width: 80%;
+	height: 75%;
+	}
+
+#headertext {
+position: relative;
+}

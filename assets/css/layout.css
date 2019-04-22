@@ -1766,9 +1766,10 @@ ol {
         }
 
         #main > section.one {
-            background-color: #81918E;
-            background-image: url("../../images/banner.jpg");
+            /* background-color: #81918E; */
+            /* background-image: url("../../images/banner.jpg"); */
         }
+
 
         #main > section.two {
             background-color: #f5fafa;
@@ -1937,7 +1938,7 @@ ol {
 
 		/* Header */
 
-			#header {
+			/* #header {
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
 				-ms-backface-visibility: hidden;
@@ -2033,7 +2034,7 @@ ol {
 						width: 3.25em;
 						height: 2.25em;
 						line-height: 2.25em;
-					}
+					} */
 
 			body.header-visible #main {
 				-moz-transform: translateX(275px);
